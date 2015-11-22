@@ -1,15 +1,15 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The objective of this code is to:
+## cache potentially time-consuming computations
 
-## Write a short comment describing this function
+## This function is for Caching the Inverse of a Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
-
+  
 }
 
 
-## Write a short comment describing this function
+## This function is for returning a matrix that is the inverse of 'x'
 
 cacheSolve <- function(x, ...) {
-        ## Return a matrix that is the inverse of 'x'
+  ## Return a matrix that is the inverse of 'x'
 }
